@@ -1,0 +1,3 @@
+test:
+  key: 'Key'
+  params: 'value: %<value>s'

@@ -1,0 +1,6 @@
+en:
+  list_of_webpages: "List of webpages:"
+  list_of_uniq_views: "List of uniq views:"
+  path: "PATH"
+  count: "COUNT"
+  key_value_views: "%<key>s %<value>s views"
